@@ -1,3 +1,4 @@
 # 4806593_Vidushi
 Here is my Agile for Beginners – Great Learning certificate:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8ae93b5-6d72-4325-a115-a162a8e6c0cc" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/86357072-a333-44fd-ab47-fdc1a226044e" />
+

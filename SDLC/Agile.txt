@@ -1,0 +1,73 @@
+Agile Methodology – Key Notes
+
+What is Agile?
+
+1. Agile is an iterative, incremental approach to software development.
+
+2. Focuses on delivering small, working pieces of software frequently.
+
+3. Emphasizes customer collaboration, adaptability, and team self-organization.
+
+
+Core Principles (from Agile Manifesto)
+
+1. Individuals & interactions over processes & tools.
+
+2. Working software over comprehensive documentation.
+
+3. Customer collaboration over contract negotiation.
+
+4. Responding to change over following a plan.
+
+
+Key Features
+
+Iterative Development: Work is divided into small cycles called iterations or sprints (usually 1–4 weeks).
+
+2. Continuous Feedback: Regular demos to stakeholders for feedback.
+
+3. Daily Stand-ups: Short daily meetings to track progress and issues.
+
+4. Cross-functional Teams: Developers, testers, designers work together.
+
+5. Embraces Change: Requirements can evolve throughout the project.
+
+Popular Agile Frameworks
+
+Scrum: Roles (Scrum Master, Product Owner, Development Team), Sprints, Backlogs, Sprint Planning, Retrospectives.
+
+Kanban: Visual board to manage workflow, focus on continuous delivery.
+
+Extreme Programming (XP): Emphasizes technical excellence — pair programming, TDD, continuous integration.
+
+Lean: Minimizes waste, optimizes flow and efficiency.
+
+Benefits of Agile
+
+Faster delivery of working software.
+
+Higher customer satisfaction.
+
+Better risk management through early problem detection.
+
+Improved product quality with continuous testing.
+
+Motivated, empowered teams.
+
+Challenges
+
+Requires high customer involvement.
+
+Can be less predictable (scope may change).
+
+Needs a collaborative, open culture.
+
+Not suitable for all project types (e.g., where requirements are fixed & regulated).
+
+When to Use Agile
+
+When requirements are likely to change.
+
+Projects that need frequent updates and feedback.
+
+When rapid delivery and flexibility are more important than detailed upfront planning.
